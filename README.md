@@ -50,13 +50,13 @@ The company operates through multiple subsidiaries responsible for manufacturing
 
 ### Manufacturing Locations
 
-- 🇨🇳 China
-- 🇸🇰 Slovakia
+- China
+- Slovakia
 
 ### Distribution Companies
 
-- 🇩🇪 Germany
-- 🇺🇸 United States
+- Germany
+- United States
 
 Products are supplied through multiple sales channels including:
 
@@ -95,7 +95,7 @@ The primary objectives of this project were:
 - Perform structured data transformation using Power Query.
 - Build a clean and scalable Star Schema data model.
 - Develop reusable DAX measures for revenue analysis.
-- Analyze revenue performance across an 18-month reporting period.
+- Analyze financial performance across an 18-month reporting period.
 - Design an executive-ready Power BI dashboard.
 - Deliver business insights supported by transparent calculations.
 - Present findings using a professional consulting-style reporting approach.
@@ -151,7 +151,7 @@ The final analytical dataset contains information related to product categories,
 ### Dataset Includes
 
 - Product Category
-- Month & Year
+- Month & Year (Extracted from individual file name, e g : SalesData_Jan2022)
 - Units Sold
 - Selling Price
 - Purchase Price
@@ -222,7 +222,7 @@ The objective was to separate transactional data from descriptive attributes, re
 
 ### SalesData_Combined
 
-The central transactional table containing monthly sales information.
+The central transactional table containing monthly sales information (obtained after combining multiple sales monthly tables using ETL).
 
 Major attributes include:
 
@@ -393,15 +393,17 @@ The dashboard highlights the most important revenue-related metrics.
 
 - Total Revenue
 - Total Units Sold
+- Total Cost
+- Gross Profit
+- Gross Margin
 - Average Selling Price
-- Previous Month Revenue
-- Revenue Growth %
+- Percentage Change (Vs Previous Year)
 
 These KPIs provide an immediate overview of business performance before users begin detailed analysis.
 
 ---
 
-## Revenue Trend Analysis
+## Performance Overtime Trend Analysis
 
 A monthly trend chart has been implemented to monitor revenue development across the reporting period.
 
@@ -505,43 +507,6 @@ Based on the observed trends, practical business recommendations have been inclu
 These recommendations convert analytical findings into actionable strategies for management.
 
 ---
-
-# 🎨 Dashboard Design Philosophy
-
-The report follows a modern executive reporting approach inspired by consulting and corporate BI standards.
-
-Key design principles include:
-
-- Dark professional theme
-- High visual contrast
-- Minimalistic layout
-- Consistent spacing
-- Interactive navigation
-- Executive KPI hierarchy
-- Business storytelling
-- Decision-oriented reporting
-
-The visual design prioritizes clarity over complexity, ensuring that stakeholders can interpret business performance quickly and efficiently.
-
----
-
-# 📷 Dashboard Gallery
-
-## Home
-
-> 📸 *(Insert Screenshot)*
-
----
-
-## Revenue Dashboard
-
-> 📸 *(Insert Screenshot)*
-
----
-
-## Business Insights
-
-> 📸 *(Insert Screenshot)*
 
 # 📈 Business Insights
 
@@ -695,7 +660,7 @@ To maintain transparency and analytical reliability, the final executive reporti
 
 ## Scope
 
-This project focuses specifically on **Revenue Performance Analysis** and **Executive Reporting**.
+This project focuses specifically on **Performance Analysis** and **Executive Reporting**.
 
 Additional financial metrics such as Cost, Gross Profit, EBITDA, or Operating Margin were intentionally excluded due to the available source data structure and validation considerations.
 
@@ -774,15 +739,15 @@ Potential future enhancements include:
 
 💼 LinkedIn
 
-> *(Add LinkedIn Profile URL)*
+> *https://linkedin.com/in/prateek27w*
 
 📂 GitHub
 
-> *(Add GitHub Profile URL)*
+> *https://github.com/prateek27w*
 
 📧 Email
 
-> *(Add Email Address)*
+> *prateek27w@gmail.com*
 
 ---
 
