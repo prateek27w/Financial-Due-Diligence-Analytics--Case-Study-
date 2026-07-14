@@ -335,7 +335,7 @@ This improves usability and creates a professional reporting experience.
 
 # 📈 Page 2 — Finance Performance Dashboard
 
-> 📸 **[Insert Finance Dashboard Screenshot Here]**
+> 📸 **![image alt](https://github.com/prateek27w/Financial-Due-Diligence-Analytics--Case-Study-/blob/main/Radial_Finance.png)**
 
 This page focuses on monitoring revenue performance over time and provides interactive KPIs for management.
 
@@ -417,7 +417,7 @@ These filters allow stakeholders to dynamically explore revenue performance with
 
 # 💡 Page 3 — Business Insights & Recommendations
 
-> 📸 **[Insert Executive Insights Screenshot Here]**
+> 📸 **![image alt](https://github.com/prateek27w/Financial-Due-Diligence-Analytics--Case-Study-/blob/main/Radial_Insights.png)**
 
 The final page has been designed specifically for executive stakeholders.
 
