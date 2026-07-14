@@ -313,7 +313,7 @@ Each page has been designed with a specific business objective while maintaining
 
 # 🏠 Page 1 — Home
 
-> 📸 **[Radial_Home.png]**
+> 📸 **[https://github.com/prateek27w/Financial-Due-Diligence-Analytics--Case-Study-/blob/main/Radial_Home.png]**
 
 The Home page acts as the landing page of the report and provides a clean navigation experience for business users.
 
