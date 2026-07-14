@@ -80,32 +80,6 @@ The primary objectives of this project were:
 
 ---
 
-# ⭐ Why This Project Stands Out
-
-This project demonstrates the complete lifecycle of a modern Power BI implementation.
-
-✅ Multi-file data integration
-
-✅ Power Query data transformation
-
-✅ Dimensional data modeling
-
-✅ Star Schema implementation
-
-✅ Time Intelligence using DAX
-
-✅ Executive Dashboard Design
-
-✅ Business Insights & Recommendations
-
-✅ Financial Due Diligence Reporting
-
-✅ Interactive Power BI Report
-
-✅ Consulting-style storytelling
-
----
-
 # 🛠 Tech Stack
 
 | Category | Technology |
