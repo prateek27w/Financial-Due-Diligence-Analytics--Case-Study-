@@ -262,6 +262,9 @@ Several reusable DAX measures were created to support executive reporting and bu
 |----------|------------------|
 | Total Revenue | Calculates total revenue generated from product sales |
 | Total Units Sold | Measures total quantity sold across all categories |
+| Total Cost | Calculates total cost incurred based on product purchase price and quantity sold |
+| Total Profit | Calculates total profit generated after deducting product cost from total revenue |
+| Gross Margin | Aggregates margin values evaluating product contribution identifying areas generating +ve or -ve financial impact |
 | Average Selling Price | Tracks average selling price over time |
 | Previous Month Revenue | Enables month-over-month comparison |
 | Revenue Growth % | Measures revenue growth against the previous month |
@@ -280,7 +283,7 @@ Throughout the implementation, several Power BI best practices were followed:
 - Dedicated Date Dimension
 - Dimension-based filtering
 - Time Intelligence functions
-- Dynamic KPI cards with change percentage
+- Dynamic KPI cards with YoY change percentage
 - Dynamic Tool-tip
 - Dedicated Filter Pane with interactive slicers
 - Advanced DAX formulas
@@ -349,7 +352,7 @@ The dashboard highlights the most important revenue-related metrics.
 - Total Revenue
 - Total Units Sold
 - Total Cost
-- Gross Profit
+- Total Profit
 - Gross Margin
 - Average Selling Price
 - Percentage Change (Vs Previous Year)
@@ -358,22 +361,22 @@ These KPIs provide an immediate overview of business performance before users be
 
 ---
 
-## Performance Overtime Trend Analysis
+## Performance Overtime Trend Analysis vs Previous Month
 
-A monthly trend chart has been implemented to monitor revenue development across the reporting period.
+A monthly trend chart has been implemented to monitor important business metrics across the reporting period.
 
 Business users can quickly identify:
 
 - Growth trends
 - Seasonal fluctuations
 - Performance decline
-- Monthly comparison
+- Previous Month comparison
 
 ---
 
 ## Category Performance
 
-Revenue has been analyzed across all product categories to identify:
+Metrics has been analyzed across all product categories to identify:
 
 - Highest contributing categories
 - Lowest contributing categories
@@ -391,6 +394,9 @@ The matrix allows users to analyze:
 
 - Revenue
 - Units Sold
+- Total Cost
+- Total Profit
+- Gross Margin
 - Average Selling Price
 
 across individual product categories.
@@ -437,7 +443,7 @@ These insights are calculated directly from the analytical model using DAX measu
 
 ---
 
-## Revenue Decomposition Tree
+## Metrics Decomposition Tree
 
 A Decomposition Tree has been implemented to support interactive root-cause analysis.
 
@@ -465,7 +471,7 @@ These recommendations convert analytical findings into actionable strategies for
 
 # 📈 Business Insights
 
-The dashboard transformed raw transactional data into meaningful business intelligence by identifying revenue trends, category performance, and executive-level insights.
+The dashboard transformed raw transactional data into meaningful business intelligence by identifying metric trends, category performance, and executive-level insights.
 
 Below are the major findings derived from the analytical model.
 
@@ -617,7 +623,7 @@ To maintain transparency and analytical reliability, the final executive reporti
 
 This project focuses specifically on **Performance Analysis** and **Executive Reporting**.
 
-Additional financial metrics such as Cost, Gross Profit, EBITDA, or Operating Margin were intentionally excluded due to the available source data structure and validation considerations.
+Additional financial metrics such as Cost, Total Profit, EBITDA, or Operating Margin were intentionally excluded due to the available source data structure and validation considerations.
 
 ---
 
