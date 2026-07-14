@@ -313,7 +313,7 @@ Each page has been designed with a specific business objective while maintaining
 
 # 🏠 Page 1 — Home
 
-> 📸 **[Insert Home Page Screenshot Here]**
+> 📸 **[Radial_Home.png]**
 
 The Home page acts as the landing page of the report and provides a clean navigation experience for business users.
 
