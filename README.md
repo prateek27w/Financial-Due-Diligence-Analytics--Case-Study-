@@ -1,0 +1,1 @@
+# Stratton-GmbH---Financial-Due-Diligence-Analytics-Case-Study-
