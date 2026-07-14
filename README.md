@@ -45,7 +45,7 @@ Products are supplied through multiple sales channels including:
 - Direct Sales
 - Online Commerce
 
-Following the establishment of a new sales company in the United States, Stratton planned to raise additional investment to accelerate its growth strategy. As part of this initiative, a financial due diligence exercise was conducted to evaluate business performance and provide analytical insights for investors. :contentReference[oaicite:0]{index=0}
+Following the establishment of a new sales company in the United States, Stratton planned to raise additional investment to accelerate its growth strategy. As part of this initiative, a financial due diligence exercise was conducted to evaluate business performance and provide analytical insights for investors.
 
 ---
 
