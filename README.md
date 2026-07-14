@@ -327,7 +327,7 @@ This improves usability and creates a professional reporting experience.
 
 ---
 
-# 📈 Page 2 — Revenue Performance Dashboard
+# 📈 Page 2 — Finance Performance Dashboard
 
 > 📸 **[Insert Finance Dashboard Screenshot Here]**
 
@@ -655,7 +655,7 @@ Potential future enhancements include:
 
 ---
 
-# 🏅 Skills Demonstrated
+# 🏅 Skills Utilized
 
 ### Business Intelligence
 
