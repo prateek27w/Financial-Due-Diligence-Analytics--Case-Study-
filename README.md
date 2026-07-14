@@ -279,13 +279,16 @@ Throughout the implementation, several Power BI best practices were followed:
 - Star Schema data modeling
 - Dedicated Date Dimension
 - Dimension-based filtering
-- Measure-driven calculations
 - Time Intelligence functions
-- Dynamic KPI cards
-- Interactive slicers
+- Dynamic KPI cards with change percentage
+- Dynamic Tool-tip
+- Dedicated Filter Pane with interactive slicers
+- Advanced DAX formulas
+- Bookmark feature and navigator implementation
+- Field Parameters for dynamic switch
+- Show Applied Filters in real-time
 - Executive-friendly dashboard design
-- Consistent visual hierarchy
-- Transparent analytical calculations
+- Consistent visual hierarchy and elements
 
 ---
 
