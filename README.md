@@ -8,6 +8,12 @@
 >
 > This project was developed as part of a real-world financial due diligence case study by radial consulting. It demonstrates an end-to-end Power BI implementation, including data transformation, dimensional modeling, DAX development, dashboard design, and executive-level business reporting.
 
+----------------------------------------------------------------------------------------------
+
+# 🔗 Live Dashboard : 👉 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzY4ZGRhZmYtNGE4Yy00YjFjLTliZjktN2JmY2MzNGY3YTk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
+----------------------------------------------------------------------------------------------
+
 ---
 
 # 📌 Project Overview
