@@ -14,8 +14,6 @@
 
 ----------------------------------------------------------------------------------------------
 
----
-
 # 📌 Project Overview
 
 This project presents a complete **Financial Due Diligence Dashboard** developed in Power BI for **Stratton GmbH**, a medium-sized manufacturing and trading company operating in the **Skateboards** and **Skis** industry.
